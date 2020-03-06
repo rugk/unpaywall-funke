@@ -15,7 +15,7 @@ Install the script by clicking [here](https://github.com/tobimori/unpaywall-funk
 * [Thüringer Allgemeine](https://thueringer-allgemeine.de/)
 * [Neue Ruhr Zeitung (NRZ)](https://nrz.de/)
 * [Westfalenpost](https://wp.de/)
-* [Iserlohner Kreisanzeiger und Zeitung (IKZ)](https://ikz-online.de/)
+* [~~Iserlohner Kreisanzeiger und Zeitung (IKZ)~~](https://ikz-online.de/) (see issue [#1](https://github.com/tobimori/unpaywall-funke/issues/1))
 * [Ostthüringer Zeitung](https://otz.de/)
 
 ## Behind the scenes
